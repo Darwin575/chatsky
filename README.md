@@ -87,9 +87,3 @@ Create a `.env.local` file in the `frontend` folder (optional if defaults work):
 NEXT_PUBLIC_API_URL=http://localhost:3002
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📄 License
-MIT
